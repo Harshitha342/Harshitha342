@@ -1,8 +1,13 @@
-# Hi there! 👋 I'm Harshitha!
+# 🚀 Welcome to Harshitha's Galaxy of Code! 🌌
 
 ## About Me
-👩‍🎓 I'm a passionate Computer Science Engineering student at Aditya Engineering College.  
+👩‍🎓 Navigating through the boundless universe of Computer Science & Engineering.    
 🌟 Currently diving into the world of C programming at TechnicalHub.
+
+## My Skills
+- C Programming
+- Data Structures and Algorithms
+- Problem Solving
 
 ## My Interests
 🖥 I'm enthusiastic about coding and exploring different programming languages.  
@@ -16,5 +21,5 @@
 ## Fun Fact
 🎵 I find coding to be like composing music; it's about creativity, patterns, and harmonizing elements.
 
-##
+## Motto
 Coding: Where logic meets creativity. 🌟
