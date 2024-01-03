@@ -1,8 +1,8 @@
 # 🚀 Welcome to Harshitha's Galaxy of Code! 🌌
 
 ## About Me
-👩‍🎓 Navigating through the boundless universe of Computer Science & Engineering.    
-🌟 Currently diving into the world of C programming at TechnicalHub.
+👩‍🎓 Currently, Navigating through the boundless universe of Computer Science & Engineering.    
+🌟 While diving into the world of C programming at TechnicalHub.
 
 ## My Skills
 - C Programming
@@ -21,5 +21,5 @@
 ## Fun Fact
 🎵 I find coding to be like composing music; it's about creativity, patterns, and harmonizing elements.
 
-## Motto
-Coding: Where logic meets creativity. 🌟
+##
+### Coding: Where logic meets creativity. 🌟
