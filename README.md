@@ -1,4 +1,4 @@
-89# 🚀 Welcome to Harshitha's Galaxy of Code! 🌌
+9# 🚀 Welcome to Harshitha's Galaxy of Code! 🌌
 
 ## About Me
 👩‍🎓 Currently, Navigating through the boundless universe of Computer Science & Engineering.    
