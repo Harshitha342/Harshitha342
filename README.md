@@ -1,4 +1,4 @@
-456789# 🚀 Welcome to Harshitha's Galaxy of Code! 🌌
+56789# 🚀 Welcome to Harshitha's Galaxy of Code! 🌌
 
 ## About Me
 👩‍🎓 Currently, Navigating through the boundless universe of Computer Science & Engineering.    
