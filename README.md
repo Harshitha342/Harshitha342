@@ -2,12 +2,14 @@
 
 ## About Me
 👩‍🎓 Currently, Navigating through the boundless universe of Computer Science & Engineering.    
-🌟 While diving into the world of C programming at TechnicalHub.
+🌟 Learning Operating Systems & Database Management System.
 
 ## My Skills
-- C Programming
+- C, Pyton, Java Certified Programmer.
+- Oracle SQL Certified.
 - Data Structures and Algorithms
-- Problem Solving
+- Redhat Certified System Administrator (RHCSA) Trainee.
+- Problem Solving & Scalable Solution Architect.
 
 ## My Interests
 🖥 I'm enthusiastic about coding and exploring different programming languages.  
